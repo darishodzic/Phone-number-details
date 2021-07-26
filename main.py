@@ -1,3 +1,5 @@
+# Install the phonenumbers module by typing the following command in command prompt.
+# pip install phonenumbers
 import phonenumbers
 from phonenumbers import carrier, geocoder, timezone
 mobileNo = input("Enter Mobile Number with Country code: ")
